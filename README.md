@@ -1,2 +1,2 @@
 # KaggleOrOthersJourney
-比赛记录
+比赛记录和代码
